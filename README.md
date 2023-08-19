@@ -20,9 +20,9 @@ Retorna uma lista de todas as províncias de Moçambique.
     "area": "Sul",
     "latitude": "-25.968945",
     "longitude": "32.573216",
-    "districts": [...]
+    "districts": []
   },
-  ...
+  
 ]
 ```
 
@@ -44,7 +44,7 @@ Retorna uma lista de distritos e seus bairros dentro de uma província específi
     {
       "id": 101,
       "name": "KaMpfumo",
-      "neighborhoods": [...]
+      "neighborhoods": []
     },
   ]
 }
