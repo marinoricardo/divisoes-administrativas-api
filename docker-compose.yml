@@ -1,0 +1,15 @@
+version: '3.3'
+services:
+  mysql-db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
+      MYSQL_DATABASE: daapi
+    ports:
+      - 3306:3306
+    volumes:
+      - my-db:/var/lib/mysql
+
+
+volumes:
+  my-db:
