@@ -1,4 +1,4 @@
-package org.mozabackend.divisoesadministrativasapi.repositories;
+package org.mozbackend.divisoesadministrativasapi.repositories;
 
 import org.mozabackend.divisoesadministrativasapi.models.Neighborhood;
 import org.springframework.data.jpa.repository.JpaRepository;

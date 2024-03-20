@@ -1,4 +1,4 @@
-package org.mozabackend.divisoesadministrativasapi.models;
+package org.mozbackend.divisoesadministrativasapi.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

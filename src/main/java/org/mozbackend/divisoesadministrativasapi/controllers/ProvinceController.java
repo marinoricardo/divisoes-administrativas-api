@@ -1,4 +1,4 @@
-package org.mozabackend.divisoesadministrativasapi.controllers;
+package org.mozbackend.divisoesadministrativasapi.controllers;
 
 import org.mozabackend.divisoesadministrativasapi.models.District;
 import org.mozabackend.divisoesadministrativasapi.models.Province;
